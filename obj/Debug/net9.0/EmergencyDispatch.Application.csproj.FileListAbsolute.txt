@@ -1,0 +1,4 @@
+D:\Ky9\KLTN\RV2\SEP490_FA26SE242_R2_BM02_Self_Review\obj\Debug\net9.0\EmergencyDispatch.Application.dll
+D:\Ky9\KLTN\RV2\SEP490_FA26SE242_R2_BM02_Self_Review\obj\Debug\net9.0\refint\EmergencyDispatch.Application.dll
+D:\Ky9\KLTN\RV2\SEP490_FA26SE242_R2_BM02_Self_Review\obj\Debug\net9.0\EmergencyDispatch.Application.xml
+D:\Ky9\KLTN\RV2\SEP490_FA26SE242_R2_BM02_Self_Review\obj\Debug\net9.0\EmergencyDispatch.Application.pdb

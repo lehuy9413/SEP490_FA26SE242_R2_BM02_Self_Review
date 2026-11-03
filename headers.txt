@@ -1,0 +1,184 @@
+361: # **Acknowledgement** {#acknowledgement}
+365: # **Definition and Acronyms**  {#definition-and-acronyms}
+383: # **I. Project Introduction** {#i.-project-introduction}
+385: ## **1\. Overview** {#1.-overview}
+387: ### **1.1 Project Information** {#1.1-project-information}
+394: ### **1.2 Project Overview** {#1.2-project-overview}
+400: ## **2\. Project Background** {#2.-project-background}
+418: ## **3\. Project Objective** {#3.-project-objective}
+432: ## **4\. Problem Statement** {#4.-problem-statement}
+443: ## **5\. Significance of the Project** {#5.-significance-of-the-project}
+458: ## **6\. Project Scope & Limitations** {#6.-project-scope-&-limitations}
+482: # **II. Project Management Plan** {#ii.-project-management-plan}
+484: ## **1\. Overview** {#1.-overview-1}
+486: ### **1.1 Scope & Estimation** {#1.1-scope-&-estimation}
+523: ### **1.2 Project Objectives** {#1.2-project-objectives}
+547: ### **1.3 Project Risks** {#1.3-project-risks}
+559: ## **2\. Management Approach** {#2.-management-approach}
+571: ### **2.1 Project Process** {#2.1-project-process}
+573: #### ***2.1.1 Process Model: 4-Sprint Agile / Scrum*** {#2.1.1-process-model:-4-sprint-agile-/-scrum}
+581: #### ***2.1.2 Sprint Roadmap across the 3 Repositories*** {#2.1.2-sprint-roadmap-across-the-3-repositories}
+619: #### ***2.1.3 Definition of Ready (DoR) and Definition of Done (DoD)*** {#2.1.3-definition-of-ready-(dor)-and-definition-of-done-(dod)}
+633: ### **2.2 Quality Management** {#2.2-quality-management}
+637: #### ***2.2.1 Defect Prevention*** {#2.2.1-defect-prevention}
+647: #### ***2.2.2 Reviewing*** {#2.2.2-reviewing}
+659: #### ***2.2.3 Unit & Component Testing*** {#2.2.3-unit-&-component-testing}
+669: #### ***2.2.4 Integration Testing*** {#2.2.4-integration-testing}
+681: #### ***2.2.5 System Testing*** {#2.2.5-system-testing}
+693: #### ***2.2.6 AI Model Quality & Fallback Policy*** {#2.2.6-ai-model-quality-&-fallback-policy}
+701: ### **2.3 Training Plan** {#2.3-training-plan}
+714: ## **3\. Project Deliverables** {#3.-project-deliverables}
+734: ## **4\. Responsibility Assignments** {#4.-responsibility-assignments}
+736: ### **4.1 Project Management & Documentation** {#4.1-project-management-&-documentation}
+755: ### **4.2 Software Development** {#4.2-software-development}
+779: ### **4.3 AI Module & Quality Assurance** {#4.3-ai-module-&-quality-assurance}
+793: ### **4.4 Deployment & Infrastructure** {#4.4-deployment-&-infrastructure}
+803: ## **5\. Project Communications** {#5.-project-communications}
+820: ## **6\. Configuration Management** {#6.-configuration-management}
+822: ### **6.1 Document Management** {#6.1-document-management}
+828: ### **6.2 Source Code Management** {#6.2-source-code-management}
+840: ### **6.3 Tools & Infrastructures** {#6.3-tools-&-infrastructures}
+854: # **III. Software Requirement Specification** {#iii.-software-requirement-specification}
+856: ## **1\. Product Overview** {#1.-product-overview}
+864: ## **2\. User Requirements** {#2.-user-requirements}
+866: ### **2.1 Actors** {#2.1-actors}
+878: ### **2.2 Use Cases** {#2.2-use-cases}
+880: #### ***2.2.1 Diagram(s)***
+886: #### ***2.2.2 Descriptions***
+919: ## **3\. Functional Requirements** {#3.-functional-requirements}
+921: ### **3.1 System Functional Overview** {#3.1-system-functional-overview}
+923: #### ***3.1.1 Screens Flow***
+969: #### ***3.1.1.2 Screens Flow \- Mobile Rescue Unit – 115 Rescue Team***  {#3.1.1.2-screens-flow---mobile-rescue-unit-–-115-rescue-team}
+975: #### ***3.1.1.2.1 Screens Flow \- Emergency Alert & Dispatch Acceptance Workflow*** {#3.1.1.2.1-screens-flow---emergency-alert-&-dispatch-acceptance-workflow}
+979: #### ***3.1.1.2.3 Screens Flow \- 4-Stage Field Operations Workflow*** {#3.1.1.2.3-screens-flow---4-stage-field-operations-workflow}
+985: #### ***3.1.1.2.4 Screens Flow \- Workflow for Checking Medical Kits & Equipment & Shift Handover***  {#3.1.1.2.4-screens-flow---workflow-for-checking-medical-kits-&-equipment-&-shift-handover}
+991: #### ***3.1.1.3 Screens Flow \- Incident Triage, Assessment & Approval Flow*** {#3.1.1.3-screens-flow---incident-triage,-assessment-&-approval-flow}
+997: #### ***3.1.1.3.1 Screens Flow \- Live Map Vehicle Monitoring & Dispatch Flow*** {#3.1.1.3.1-screens-flow---live-map-vehicle-monitoring-&-dispatch-flow}
+1009: #### ***3.1.1.4 Screens Flow \- Dispatcher Loging & Navigation*** {#3.1.1.4-screens-flow---dispatcher-loging-&-navigation}
+1015: #### ***3.1.1.4.1  Screens Flow \- Incident Queue Triage, AI Review & Approval*** {#3.1.1.4.1-screens-flow---incident-queue-triage,-ai-review-&-approval}
+1021: #### ***3.1.1.4.2 Screens Flow \- Live Map Monitoring & Vehicle Dispatch*** {#3.1.1.4.2-screens-flow---live-map-monitoring-&-vehicle-dispatch}
+1025: #### ***3.1.1.4.3 Screens Flow \- Operational Analytics & Reporting***  {#3.1.1.4.3-screens-flow---operational-analytics-&-reporting}
+1031: #### ***3.1.2 Screen Descriptions***
+1048: #### ***3.1.2.1 Recuse Staff \- Mobile Screen*** {#3.1.2.1-recuse-staff---mobile-screen}
+1060: #### ***3.1.2.2 Dispatcher \- Web screen*** {#3.1.2.2-dispatcher---web-screen}
+1078: ####
+1080: #### *3.1.3 Web Module – Back-office System Admin Portal*  {#3.1.3-web-module-–-back-office-system-admin-portal}
+1092: #### ***3.1.4 Screen Authorization***
+1119: #### ***3.1.5 Non-Screen Functions***
+1131: #### ***3.1.6 Entity Relationship Diagram***
+1157: ### **3.2 Citizen Mobile Features** {#3.2-citizen-mobile-features}
+1159: #### ***3.2.1 Citizen Registration*** {#3.2.1-citizen-registration}
+1198: #### ***3.2.2 Citizen Authentication & Login*** {#3.2.2-citizen-authentication-&-login}
+1234: #### ***3.2.3 Emergency SOS Alert Trigger*** {#3.2.3-emergency-sos-alert-trigger}
+1272: #### ***3.2.4 Hazard Incident Reporting with AI Analysis*** {#3.2.4-hazard-incident-reporting-with-ai-analysis}
+1308: #### ***3.2.5 Safety Map & Emergency POI Navigation*** {#3.2.5-safety-map-&-emergency-poi-navigation}
+1343: #### ***3.2.6 Incident Reports Tracking*** {#3.2.6-incident-reports-tracking}
+1381: #### ***3.2.7 Emergency Medical Profile & ICE Contacts Management*** {#3.2.7-emergency-medical-profile-&-ice-contacts-management}
+1431: ### **3.3 Command Center CAD Dashboard (Dispatcher Web Portal)** {#3.3-command-center-cad-dashboard-(dispatcher-web-portal)}
+1433: #### ***3.3.1 Real-Time GIS Live Map & Incident Monitoring*** {#3.3.1-real-time-gis-live-map-&-incident-monitoring}
+1449: #### ***3.3.2 Prioritized Incident Queue & Human-in-the-Loop Verification*** {#3.3.2-prioritized-incident-queue-&-human-in-the-loop-verification}
+1464: ### **3.4 Rescue Staff Mobile Client (QRT Field Operations)** {#3.4-rescue-staff-mobile-client-(qrt-field-operations)}
+1466: ### **3.4.1 4-Step Rescue Mission Stepper** {#3.4.1-4-step-rescue-mission-stepper}
+1486: ## **3.5 System Administrator Back-Office Management** {#3.5-system-administrator-back-office-management}
+1488: #### ***3.5.1 Guard Posts & Rescue Stations Management*** {#3.5.1-guard-posts-&-rescue-stations-management}
+1504: #### ***3.5.2 Rescue Equipment Inventory Management*** {#3.5.2-rescue-equipment-inventory-management}
+1521: ## **4\. Non-Functional Requirements** {#4.-non-functional-requirements}
+1523: ### **4.1 External Interfaces** {#4.1-external-interfaces}
+1525: #### ***4.1.1 User Interfaces (UI)*** {#4.1.1-user-interfaces-(ui)}
+1563: #### ***4.1.2 Hardware Interfaces*** {#4.1.2-hardware-interfaces}
+1571: #### ***4.1.3 Software Interfaces*** {#4.1.3-software-interfaces}
+1583: #### ***4.1.4 Communications Interfaces*** {#4.1.4-communications-interfaces}
+1595: ### **4.2 Quality Attributes** {#4.2-quality-attributes}
+1599: #### ***4.2.1 Usability***  {#4.2.1-usability}
+1611: #### ***4.2.2 Reliability***  {#4.2.2-reliability}
+1625: #### ***4.2.3 Performance*** {#4.2.3-performance}
+1639: #### ***4.2.4 Security & Privacy*** {#4.2.4-security-&-privacy}
+1657: #### ***4.2.5 Maintainability & Portability*** {#4.2.5-maintainability-&-portability}
+1667: #### ***4.2.6 Cross-Platform Omnichannel Quality Attributes*** {#4.2.6-cross-platform-omnichannel-quality-attributes}
+1691: ####
+1693: ## **5\. Requirement Appendix**
+1697: ### **5.1 Business Rules** {#5.1-business-rules}
+1737: ### **5.2 Common Requirements**
+1741: ####
+1743: #### ***5.2.1 Standardized API Response Envelope*** {#5.2.1-standardized-api-response-envelope}
+1749: ####
+1751: #### ***5.2.2 Common Input Validation and Form Constraints*** {#5.2.2-common-input-validation-and-form-constraints}
+1767: #### ***5.2.3 Security, Privacy, and Data Protection Standards*** {#5.2.3-security,-privacy,-and-data-protection-standards}
+1779: #### ***5.2.4 User Interface Ergonomics and Cross-Platform Conventions*** {#5.2.4-user-interface-ergonomics-and-cross-platform-conventions}
+1795: #### ***5.2.5 Data Persistence, Soft Deletion, and Auditability*** {#5.2.5-data-persistence,-soft-deletion,-and-auditability}
+1803: #### ***5.2.6 Fault Tolerance and Offline Capability*** {#5.2.6-fault-tolerance-and-offline-capability}
+1809: ### **5.3 Application Messages List** {#5.3-application-messages-list}
+1868: # **IV. Software Design Description** {#iv.-software-design-description}
+1870: ## **1\. System Design** {#1.-system-design}
+1872: ### **1.1 System Architecture** {#1.1-system-architecture}
+1910: ### **1.2 Package Diagram** {#1.2-package-diagram}
+1912: #### ***1.2.1 Mobile*** {#1.2.1-mobile}
+1935: #### ***1.2.2 Frontend Web*** {#1.2.2-frontend-web}
+1958: ##
+1960: #### ***1.2.3 Backend*** {#1.2.3-backend}
+1990: ##
+1992: ### **1.3 State Diagram**
+1994: #### ***1.3.1 Incident***
+2014: ###
+2016: #### ***1.3.2 Dispatch Assignment***
+2034: ####
+2036: ####
+2038: ####
+2040: #### ***1.3.3 Rescue Unit***
+2057: #### ***1.3.4 Traffic Jam***
+2074: ### **1.4 Activity Diagram**
+2076: #### ***1.4.1 Incident Reporting***
+2082: #### ***1.4.2 Dispatch Assignment***
+2088: #### ***1.4.3 Responder Mission Lifecycle***
+2094: #### ***1.4.4 Mission Closure & Digital Signature***
+2100: #### ***1.4.5 Real-time GPS Tracking & Telemetry***
+2106: ### **1.5 Component Diagram**  {#1.5-component-diagram}
+2147: ##
+2149: ## **2\. Database Design** {#2.-database-design}
+2184: ## **3\. Detailed Design** {#3.-detailed-design}
+2186: ### **3.1 Emergency SOS Reporting & Asynchronous AI Scene Analysis** {#3.1-emergency-sos-reporting-&-asynchronous-ai-scene-analysis}
+2188: #### ***3.1.1 Class Diagram***
+2194: #### ***3.1.2 Sequence Diagram***  {#3.1.2-sequence-diagram}
+2200: ### **3.2 Incident Verification & Intelligent Resource Dispatching**
+2202: #### ***3.1.1 Class Diagram*** {#3.1.1-class-diagram}
+2208: #### ***3.1.2 Sequence Diagram***  {#3.1.2-sequence-diagram-1}
+2214: ### **3.3 Mission Acceptance & Real-time Live GPS Fleet Tracking** {#3.3-mission-acceptance-&-real-time-live-gps-fleet-tracking}
+2216: #### ***3.3.1 Class Diagram*** {#3.3.1-class-diagram}
+2222: #### ***3.3.2 Sequence Diagram***  {#3.3.2-sequence-diagram}
+2228: ### **3.4 On-Scene Operations, Incident Resolution & Case Closure** {#3.4-on-scene-operations,-incident-resolution-&-case-closure}
+2230: #### ***3.4.1 Class Diagram*** {#3.4.1-class-diagram}
+2236: #### ***3.4.2 Sequence Diagram***  {#3.4.2-sequence-diagram}
+2242: ### **3.5 Automated Incident Escalation Engine (SLA Monitoring)** {#3.5-automated-incident-escalation-engine-(sla-monitoring)}
+2244: #### ***3.5.1 Class Diagram*** {#3.5.1-class-diagram}
+2250: #### ***3.5.2 Sequence Diagram***  {#3.5.2-sequence-diagram}
+2256: # **V. Software Testing Documentation**
+2258: ## **1\. Scope of Testing** {#1.-scope-of-testing}
+2260: ### **1.1. In-Scope** {#1.1.-in-scope}
+2280: ### **1.2. Out-Scope** {#1.2.-out-scope}
+2288: ### **1.3. Assumptions and Constraints** {#1.3.-assumptions-and-constraints}
+2296: ## Geofencing Constraint: All submitted GPS coordinates are cross-referenced against the PostGIS boundary polygon of the High-Tech Park; any coordinates falling outside this area will be flagged with a warning. {#geofencing-constraint:-all-submitted-gps-coordinates-are-cross-referenced-against-the-postgis-boundary-polygon-of-the-high-tech-park;-any-coordinates-falling-outside-this-area-will-be-flagged-with-a-warning.}
+2298: ## **2\. Test Strategy** {#2.-test-strategy}
+2314: ### **2.1 Testing Types** {#2.1-testing-types}
+2320: #### ***2.1.1. Functional Testing*** {#2.1.1.-functional-testing}
+2353: #### ***2.1.3. Usability & Accessibility Testing*** {#2.1.3.-usability-&-accessibility-testing}
+2368: #### ***2.1.4. Network Simulation & Offline Resilience Testing*** {#2.1.4.-network-simulation-&-offline-resilience-testing}
+2383: #### ***2.1.5. Security & Device Permission Testing*** {#2.1.5.-security-&-device-permission-testing}
+2398: ####  ***2.1.6. Performance & Battery Consumption Testing*** {#2.1.6.-performance-&-battery-consumption-testing}
+2413: #### ***2.1.7. . Functional UI Testing (Web Command Center Dashboard)*** {#2.1.7.-.-functional-ui-testing-(web-command-center-dashboard)}
+2434: #### **2.1.8. WebSocket Real-time Testing (SignalR Hub)** {#2.1.8.-websocket-real-time-testing-(signalr-hub)}
+2462: #### **2.1.9. Cross-browser & Responsive Compatibility Testing (Web)** {#2.1.9.-cross-browser-&-responsive-compatibility-testing-(web)}
+2486: #### **2.1.10. Backend REST API & Integration Testing** {#2.1.10.-backend-rest-api-&-integration-testing}
+2503: #### ***2.1.11. Performance Testing (SLA & Latency Benchmarks)*** {#2.1.11.-performance-testing-(sla-&-latency-benchmarks)}
+2519: #### ***2.1.12. Stress & Concurrency Testing (Spike Load & Queue Saturation)*** {#2.1.12.-stress-&-concurrency-testing-(spike-load-&-queue-saturation)}
+2551: #### ***2.1.14. Security, Access Control (RBAC) & Data Privacy Testing (PII & Decree 13/2023/ND-CP)*** {#2.1.14.-security,-access-control-(rbac)-&-data-privacy-testing-(pii-&-decree-13/2023/nd-cp)}
+2568: #### ***2.1.15. Bilingual & Localization Verification (vi / en)*** {#2.1.15.-bilingual-&-localization-verification-(vi-/-en)}
+2581: ### **2.2 Test Levels** {#2.2-test-levels}
+2605: ### **Description of Test Levels** {#description-of-test-levels}
+2629: ### **2.3 Supporting Tools** {#2.3-supporting-tools}
+2641: ## **3\. Test Plan**
+2643: ### **3.1 Human Resources**
+2653: ###
+2655: ###
+2657: ### **3.2 Test Environment** {#3.2-test-environment}
+2682: ### **3.3 Test Milestones** {#3.3-test-milestones}
+2694: ## **4\. Test Cases & Test Reports** {#4.-test-cases-&-test-reports}
