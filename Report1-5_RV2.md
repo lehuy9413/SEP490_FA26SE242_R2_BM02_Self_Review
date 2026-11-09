@@ -6,7 +6,7 @@
 |  FPT UNIVERSITY |
 | :---: |
 |  Capstone Project Document  |
-| AI-assisted Emergency Dispatch System with Vision-Language-based Hazard Classification and Severity Scoring |
+| AI-assisted Emergency Dispatch System with s Hazard Classification and Severity Scoring |
 
 | GFA26SE29 |  |
 | ----- | :---- |
